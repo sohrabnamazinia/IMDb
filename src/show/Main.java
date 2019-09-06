@@ -385,6 +385,7 @@ public class Main extends Application
         Images.images();
         Movies.movies();
         Rating.rating();
+        System.out.println("It is just about the new simple-branch");
         launch(args);
 
     }
